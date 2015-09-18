@@ -18,7 +18,9 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.UnknownHostException;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
+import java.util.GregorianCalendar;
 import java.util.TimeZone;
 
 import javax.swing.JButton;
@@ -62,6 +64,7 @@ public class FT_Main extends JFrame{
 	private Thread threadLowSpeed,threadHighSpeed;
 	private StringBuilder ipaddress;
 	private FileWriter fileWriter;
+	private FileWriter fileWriterHighSpeed;
 	private FileWriter logWriter;
 	private String filePath;
 	private String fileName;
@@ -71,9 +74,20 @@ public class FT_Main extends JFrame{
 	private SimpleDateFormat dateTimeZoneFormat;
 	private JTextField textField_filename;
 	
+	private String getCurrentTimezoneOffset() {
+
+	    TimeZone tz = TimeZone.getDefault();  
+	    Calendar cal = GregorianCalendar.getInstance(tz);
+	    int offsetInMillis = tz.getOffset(cal.getTimeInMillis());
+	    int hour = Integer.parseInt(String.format("%02d", Math.abs(offsetInMillis / 3600000)));
+	    int minute = Integer.parseInt(String.format("%02d", Math.abs((offsetInMillis / 60000) % 60)));
+	    String offset = (minute < 1) ? (hour+"") : (hour+""+minute+"");
+	    offset = (offsetInMillis >= 0 ? "" : "-") + offset;
+	    return offset;
+	} 
 	private String getDateTimeWithZone()
 	{
-		return dateTimeZoneFormat.format(new Date())+"Tz";
+		return dateTimeZoneFormat.format(new Date())+"Tz"+getCurrentTimezoneOffset();
 	}
 	private void EnableConnect()
 	{
@@ -148,7 +162,45 @@ public class FT_Main extends JFrame{
 	    this.setLocation(x, y);
 		this.setVisible(true);
 	}
-	
+	private FileWriter getHighSpeedWriter(String filePath)
+    {
+        if (fileWriterHighSpeed == null)
+        {
+            try 
+            {
+            	fileWriterHighSpeed = new FileWriter(filePath,true);
+			} 
+            catch (IOException e) 
+            {
+				WriteLog(e.toString()+" at "+getDateTimeWithZone()+"\n");
+			}
+        }
+        return fileWriterHighSpeed;
+    }
+	private void WriteHighSpeedData(String data,String date)
+    {
+        try 
+        {
+			getHighSpeedWriter(filePath).write(data+","+date);
+			getHighSpeedWriter(filePath).flush();
+		} 
+        catch (IOException e) 
+        {
+			e.printStackTrace();
+		}
+    }
+    private void CloseHighSpeedData()
+    {
+    	try
+    	{
+    		getHighSpeedWriter(filePath).close();
+    		fileWriterHighSpeed = null;
+    	}
+    	catch(IOException e)
+    	{
+    		e.printStackTrace();
+    	}
+    }
 	private FileWriter getWriter(String filePath)
     {
         if (fileWriter == null)
@@ -344,6 +396,8 @@ public class FT_Main extends JFrame{
 						ipaddress.append(textfield_ipaddress4.getText().trim());
 						if(!readConfigurationInfo(ipaddress.toString()))
 						{
+							textarea_status.replaceRange("", 0, textarea_status.getLineEndOffset(0));
+							textarea_status.append("Cannot Read Configurations"+"\n");
 							EnableConnect();
 							return;
 						}
@@ -368,6 +422,27 @@ public class FT_Main extends JFrame{
 									@Override
 									public void run() {
 										
+										try
+										{
+											File f = new File(filePath);
+											if(f.exists())
+											{
+												double bytes = f.length();
+												double kb = bytes/1024;
+												if(kb > 100)
+												{
+													fileNameNew = fileName+"_"+getDateTimeWithZone()+".csv";
+													filePath = filePath + "\\" + fileNameNew;
+													WriteData("RDTSequence,FTSequence,Status,Fx,Fy,Fz,Tx,Ty,Tz", "TimeStamp");
+													textarea_status.replaceRange("", 0, textarea_status.getLineEndOffset(0));
+													textarea_status.append("New File Name is "+filePath);
+												}
+											}
+										}
+										catch(Exception ex)
+										{
+											
+										}
 										synchronized (sensor) 
 										{
 											int i = 0;
@@ -447,46 +522,73 @@ public class FT_Main extends JFrame{
 								@Override
 								public void run() {
 									
-									while(true)
+									try
 									{
-										try
+										File f = new File(filePath);
+										if(f.exists())
 										{
-											int count = Math.max(m_iRDTSampleRate / 10, 1);
-											packets = new NetFTRDTPacket[count];
-											packets = sensor.readHighSpeedData(fastDataSocket,count);
-											for(int i=0;i<count;i++)
+											double bytes = f.length();
+											double kb = bytes/1024;
+											if(kb > 100)
 											{
-												String data = packets[i].toString(m_daftCountsPerUnit);
-												String date = new Date().toString();
+												fileNameNew = fileName+"_"+getDateTimeWithZone()+".csv";
+												filePath = filePath + "\\" + fileNameNew;
+												WriteData("RDTSequence,FTSequence,Status,Fx,Fy,Fz,Tx,Ty,Tz", "TimeStamp");
 												textarea_status.replaceRange("", 0, textarea_status.getLineEndOffset(0));
-												textarea_status.append(packet.toString()+"\n");
+												textarea_status.append("New File Name is "+filePath);
 											}
 										}
-										catch(Exception ex)
+									}
+									catch(Exception ex)
+									{
+										
+									}
+									synchronized (sensor) 
+									{
+										while(true)
 										{
+											try
+											{
+												int count = Math.max(m_iRDTSampleRate / 10, 1);
+												packets = new NetFTRDTPacket[count];
+												packets = sensor.readHighSpeedData(fastDataSocket,count);
+												for(int i=0;i<count;i++)
+												{
+													String data = packets[i].toString(m_daftCountsPerUnit);
+													String date = getDateTimeWithZone();
+													WriteHighSpeedData(data, date);
+												}
+												CloseHighSpeedData();
+												textarea_status.replaceRange("", 0, textarea_status.getLineEndOffset(0));
+												textarea_status.append(count+" Packets at" + new SimpleDateFormat("HH:mm:ss:SSS").format(new Date()));
+											}
+											catch(Exception ex)
+											{
+												try 
+												{
+													textarea_status.replaceRange("", 0, textarea_status.getLineEndOffset(0));
+													textarea_status.append("Cannot Read Data from Sensor...\n");
+												} 
+												catch (BadLocationException e) 
+												{
+													WriteLog(e.toString()+" at "+getDateTimeWithZone()+"\n");
+												}
+											}
+											finally
+											{
+												
+											}
 											try 
 											{
-												textarea_status.replaceRange("", 0, textarea_status.getLineEndOffset(0));
-												textarea_status.append("Cannot Read Data from Sensor...\n");
+												this.sleep(100);
 											} 
-											catch (BadLocationException e) 
+											catch (InterruptedException e) 
 											{
 												WriteLog(e.toString()+" at "+getDateTimeWithZone()+"\n");
 											}
-										}
-										finally
-										{
-											
-										}
-										try 
-										{
-											this.sleep(10000);
-										} 
-										catch (InterruptedException e) 
-										{
-											WriteLog(e.toString()+" at "+getDateTimeWithZone()+"\n");
-										}
+										}	
 									}
+							
 								}
 							};
 							threadHighSpeed.start();
