@@ -1,0 +1,45 @@
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\bin\Debug\RFID_Alien.exe
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\bin\Debug\RFID_Alien.pdb
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\bin\Debug\AlienRFID2.dll
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\bin\Debug\AlienRFID2.xml
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.csprojResolveAssemblyReference.cache
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.Form1.resources
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.Properties.Resources.resources
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.csproj.GenerateResource.Cache
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.exe
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.pdb
+D:\Work\RFID\Telemetry\RFID_Alien\RFID_Alien\bin\Debug\RFID_Alien.exe.config
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\bin\Debug\RFID_Alien.exe.config
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\bin\Debug\RFID_Alien.exe
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\bin\Debug\RFID_Alien.pdb
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\bin\Debug\AlienRFID2.xml
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.csprojResolveAssemblyReference.cache
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.Form1.resources
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.Properties.Resources.resources
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.csproj.GenerateResource.Cache
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.exe
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Telemetry\RFID_Alien\RFID_Alien\obj\x86\Debug\RFID_Alien.pdb
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\bin\Debug\RFID_Alien.exe.config
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\obj\x86\Debug\RFID_Alien.exe
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\obj\x86\Debug\RFID_Alien.pdb
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\bin\Debug\RFID_Alien.exe
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\bin\Debug\RFID_Alien.pdb
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\bin\Debug\AlienRFID2.dll
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\bin\Debug\AlienRFID2.xml
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\obj\x86\Debug\RFID_Alien.csprojResolveAssemblyReference.cache
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\obj\x86\Debug\RFID_Alien.Form1.resources
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\obj\x86\Debug\RFID_Alien.Properties.Resources.resources
+D:\Work\RFID\Telemetry\RFIDTelemetryToModify-master\RFIDTelemetryToModify-master\RFID_Alien\obj\x86\Debug\RFID_Alien.csproj.GenerateResource.Cache
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\obj\x86\Debug\RFID_Alien.csprojResolveAssemblyReference.cache
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\obj\x86\Debug\RFID_Alien.Form1.resources
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\obj\x86\Debug\RFID_Alien.Properties.Resources.resources
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\obj\x86\Debug\RFID_Alien.csproj.GenerateResource.Cache
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\bin\Debug\RFID_Alien.exe.config
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\bin\Debug\RFID_Alien.exe
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\bin\Debug\RFID_Alien.pdb
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\bin\Debug\AlienRFID2.xml
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\obj\x86\Debug\RFID_Alien.exe
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFIDFinalModified-master\RFID_Alien\obj\x86\Debug\RFID_Alien.pdb
+D:\Final Working Codes\AlienRFIDStandalone_Working\RFID_Alien\bin\Debug\RFID_Alien.exe.config
+D:\Final Working Codes\AlienRFIDStandalone_Working\RFID_Alien\obj\x86\Debug\RFID_Alien.exe
+D:\Final Working Codes\AlienRFIDStandalone_Working\RFID_Alien\obj\x86\Debug\RFID_Alien.pdb

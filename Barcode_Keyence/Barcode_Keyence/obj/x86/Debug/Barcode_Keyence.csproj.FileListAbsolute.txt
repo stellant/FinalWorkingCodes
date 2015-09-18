@@ -1,0 +1,146 @@
+c:\users\thanga\documents\visual studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+c:\users\thanga\documents\visual studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+c:\users\thanga\documents\visual studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\thanga\documents\visual studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+c:\users\thanga\documents\visual studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+c:\users\thanga\documents\visual studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\thanga\documents\visual studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\thanga\documents\visual studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+c:\users\thanga\documents\visual studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+C:\Users\Thanga\Documents\Visual Studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+C:\Users\Thanga\Documents\Visual Studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+C:\Users\Thanga\Documents\Visual Studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+C:\Users\Thanga\Documents\Visual Studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+C:\Users\Thanga\Documents\Visual Studio 2010\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+D:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+D:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+D:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+D:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+D:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+D:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+D:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+D:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+D:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+D:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+D:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+D:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+E:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+E:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+E:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\BarcodeReaderControl.dll
+E:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+E:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+E:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+E:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+E:\Projects\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+E:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+E:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+E:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+E:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+E:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+E:\Projects\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csprojResolveAssemblyReference.cache
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csprojResolveAssemblyReference.cache
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+D:\Flextronics Softwares and Webservices\Modified\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csprojResolveAssemblyReference.cache
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csprojResolveAssemblyReference.cache
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csprojResolveAssemblyReference.cache
+D:\Work\BarcodeRunning-master\BarcodeRunning-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\BarcodeReaderControl.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csprojResolveAssemblyReference.cache
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\BarcodeRunningSecondRequirement-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csprojResolveAssemblyReference.cache
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csprojResolveAssemblyReference.cache
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.exe
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.pdb
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csprojResolveAssemblyReference.cache
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Form1.resources
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.Properties.Resources.resources
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\obj\x86\Debug\Barcode_Keyence.csproj.GenerateResource.Cache
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.exe
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\bin\Debug\Barcode_Keyence.pdb
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\bin\Debug\BarcodeReaderControl.dll
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\bin\Debug\Communication.dll
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\bin\Debug\Readers.dll
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\bin\Debug\VncClientControl.dll
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\bin\Debug\SrUsbAdapterApi.dll
+D:\Final Working Codes\Barcode_Keyence\Barcode_Keyence\bin\Debug\CommonUtility.dll

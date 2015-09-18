@@ -1,0 +1,13 @@
+D:\Work\RFID\Webservice\RFID_Webservice\RFID_Webservice\bin\RFID_Webservice.dll
+D:\Work\RFID\Webservice\RFID_Webservice\RFID_Webservice\bin\RFID_Webservice.pdb
+D:\Work\RFID\Webservice\RFID_Webservice\RFID_Webservice\bin\AlienRFID2.dll
+D:\Work\RFID\Webservice\RFID_Webservice\RFID_Webservice\bin\AlienRFID2.xml
+D:\Work\RFID\Webservice\RFID_Webservice\RFID_Webservice\obj\Debug\RFID_Webservice.csprojResolveAssemblyReference.cache
+D:\Work\RFID\Webservice\RFID_Webservice\RFID_Webservice\obj\Debug\RFID_Webservice.dll
+D:\Work\RFID\Webservice\RFID_Webservice\RFID_Webservice\obj\Debug\RFID_Webservice.pdb
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Webservice\RFID_Webservice\RFID_Webservice\bin\RFID_Webservice.dll
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Webservice\RFID_Webservice\RFID_Webservice\bin\RFID_Webservice.pdb
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Webservice\RFID_Webservice\RFID_Webservice\bin\AlienRFID2.xml
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Webservice\RFID_Webservice\RFID_Webservice\obj\Debug\RFID_Webservice.csprojResolveAssemblyReference.cache
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Webservice\RFID_Webservice\RFID_Webservice\obj\Debug\RFID_Webservice.dll
+E:\IOT\Flextronics\Thangavel\Alien\Code\RFID-master\Webservice\RFID_Webservice\RFID_Webservice\obj\Debug\RFID_Webservice.pdb

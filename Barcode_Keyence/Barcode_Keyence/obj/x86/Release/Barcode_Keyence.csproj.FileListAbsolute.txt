@@ -1,0 +1,3 @@
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Release\Barcode_Keyence.Form1.resources
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Release\Barcode_Keyence.Properties.Resources.resources
+C:\Users\TH303898\Downloads\Barcode_Keyence-master\Barcode_Keyence-master\Barcode_Keyence\Barcode_Keyence\obj\x86\Release\Barcode_Keyence.csproj.GenerateResource.Cache

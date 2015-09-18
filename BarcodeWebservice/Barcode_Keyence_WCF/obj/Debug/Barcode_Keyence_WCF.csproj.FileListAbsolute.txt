@@ -1,0 +1,15 @@
+c:\users\th303898\documents\visual studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\bin\Barcode_Keyence_WCF.dll
+c:\users\th303898\documents\visual studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\bin\Barcode_Keyence_WCF.pdb
+c:\users\th303898\documents\visual studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.dll
+c:\users\th303898\documents\visual studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.pdb
+C:\Users\TH303898\Documents\Visual Studio 2010\Projects\Barcode_Keyence_WCF\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.csprojResolveAssemblyReference.cache
+D:\Flextronics Softwares and Webservices\Flextronics\Barcode_Keyence\Webservice\Barcode_Keyence_WCF\Barcode_Keyence_WCF\bin\Barcode_Keyence_WCF.dll
+D:\Flextronics Softwares and Webservices\Flextronics\Barcode_Keyence\Webservice\Barcode_Keyence_WCF\Barcode_Keyence_WCF\bin\Barcode_Keyence_WCF.pdb
+D:\Flextronics Softwares and Webservices\Flextronics\Barcode_Keyence\Webservice\Barcode_Keyence_WCF\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.csprojResolveAssemblyReference.cache
+D:\Flextronics Softwares and Webservices\Flextronics\Barcode_Keyence\Webservice\Barcode_Keyence_WCF\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.dll
+D:\Flextronics Softwares and Webservices\Flextronics\Barcode_Keyence\Webservice\Barcode_Keyence_WCF\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.pdb
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Webservice\BarcodeWebservice-master\BarcodeWebservice-master\Barcode_Keyence_WCF\bin\Barcode_Keyence_WCF.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Webservice\BarcodeWebservice-master\BarcodeWebservice-master\Barcode_Keyence_WCF\bin\Barcode_Keyence_WCF.pdb
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Webservice\BarcodeWebservice-master\BarcodeWebservice-master\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.csprojResolveAssemblyReference.cache
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Webservice\BarcodeWebservice-master\BarcodeWebservice-master\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.dll
+E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Webservice\BarcodeWebservice-master\BarcodeWebservice-master\Barcode_Keyence_WCF\obj\Debug\Barcode_Keyence_WCF.pdb

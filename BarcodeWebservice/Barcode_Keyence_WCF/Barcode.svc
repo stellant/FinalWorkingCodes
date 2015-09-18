@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Barcode_Keyence_WCF.Barcode" CodeBehind="Barcode.svc.cs" %>

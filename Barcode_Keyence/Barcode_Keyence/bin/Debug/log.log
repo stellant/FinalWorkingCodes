@@ -1,0 +1,243 @@
+Data will be written to C:\Users\TH303898\Desktop   at20150912023245775Tz530
+
+Images will be stored to C:\Users\TH303898\Desktop   at20150912023250716Tz530
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 251
+   at 20150912023252890
+
+
+--------------------------------------------------------------------------------------------
+
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 251
+   at 20150912023253982
+
+
+--------------------------------------------------------------------------------------------
+
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Keyence.AutoID.CommunicationException: Communication error
+   at Keyence.AutoID.BarcodeReaderControl.Connect()
+   at Barcode_Keyence.Form1.Connect() in C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 251
+   at 20150912023259191
+Data will be written to C:\Users\TH303898\Desktop   at 20150912030025505Tz530
+
+Images will be stored to C:\Users\TH303898\Desktop   at 20150912030031659Tz530
+
+Data will be written to C:\Users\TH303898\Desktop   at 20150912030129173Tz530
+
+Images will be stored to C:\Users\TH303898\Desktop   at 20150912030135312Tz530
+
+Data will be written to C:\Users\TH303898\Desktop   at 20150912030157773Tz530
+
+Images will be stored to C:\Users\TH303898\Desktop   at 20150912030200822Tz530
+
+Date Time Monitor Started...   at 20150912030208986Tz530
+
+Data will be written to C:\Users\TH303898\Desktop   at 20150912030312805Tz530
+
+Images will be stored to C:\Users\TH303898\Desktop   at 20150912030315986Tz530
+
+Date Time Monitor Started...   at 20150912030432070Tz530
+
+Data will be written to C:\Users\TH303898\Desktop   at 20150912030654775Tz530
+
+Images will be stored to C:\Users\TH303898\Desktop   at 20150912030657981Tz530
+
+Date Time Monitor Started...   at 20150912030704093Tz530
+
+Data will be written to C:\Users\TH303898\Desktop   at 20150912031555396Tz530
+
+Images will be stored to C:\Users\TH303898\Desktop   at 20150912031558311Tz530
+
+Date Time Monitor Started...   at 20150912031604923Tz530
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 388
+   at 20150912031916096Tz530
+Data will be written to C:\Users\TH303898\Desktop   at 20150912032958465Tz530
+
+Images will be stored to C:\Users\TH303898\Desktop   at 20150912033002021Tz530
+
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 390
+   at 20150912033122958Tz530
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Keyence.AutoID.BarcodeReaderControl.Disconnect()
+   at Barcode_Keyence.Form1.button_close_Click(Object sender, EventArgs e) in C:\Users\TH303898\Downloads\Barcode_Keyence\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 390
+   at 20150912033126218Tz530
+Data will be written to C:\Users\TH303898\Desktop   at 20150912030139554Tz5
+
+Images will be stored to C:\Users\TH303898\Desktop   at 20150912030143793Tz5
+
+Date Time Monitor Started...   at 20150912030147318Tz5
+
+Data will be written to E:\IOT\Flextronics\Thangavel   at 20150911163107885Tz-7
+
+Images will be stored to E:\   at 20150911163121619Tz-7
+
+Date Time Monitor Started...   at 20150911163131753Tz-7
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911163107884Tz-7.csv   at 20150911163151420Tz-7
+
+Data will be written to E:\IOT\Flextronics\Thangavel   at 20150911163509435Tz-7
+
+Images will be stored to E:\   at 20150911163521819Tz-7
+
+Date Time Monitor Started...   at 20150911163526854Tz-7
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911163509434Tz-7.csv   at 20150911163538309Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911163509434Tz-7.csv   at 20150911163548299Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911163800000Tz-7.csv   at 20150911163828815Tz-7
+
+Keyence.AutoID.FileAccessException: cannot acceess the file
+   at Keyence.AutoID.BarcodeReaderControl.GetFile(String srcFile, String dstFile)
+   at Barcode_Keyence.Form1.updateDataValue(Byte[] data) in E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 347   at20150911163828854Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911163800000Tz-7.csv   at 20150911164327039Tz-7
+
+Keyence.AutoID.FileAccessException: cannot acceess the file
+   at Keyence.AutoID.BarcodeReaderControl.GetFile(String srcFile, String dstFile)
+   at Barcode_Keyence.Form1.updateDataValue(Byte[] data) in E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 347   at20150911164327072Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911163800000Tz-7.csv   at 20150911164404598Tz-7
+
+Keyence.AutoID.FileAccessException: cannot acceess the file
+   at Keyence.AutoID.BarcodeReaderControl.GetFile(String srcFile, String dstFile)
+   at Barcode_Keyence.Form1.updateDataValue(Byte[] data) in E:\IOT\Flextronics\Thangavel\Barcode_Keyence\Barcode_Keyence_with_datetimelimit\Barcode_Keyence\Barcode_Keyence\Form1.cs:line 347   at20150911164404628Tz-7
+
+Data will be written to E:\IOT\Flextronics\Thangavel   at 20150911164548634Tz-7
+
+Images will be stored to E:\   at 20150911164600957Tz-7
+
+Date Time Monitor Started...   at 20150911164611018Tz-7
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164548633Tz-7.csv   at 20150911164618753Tz-7
+
+Data will be written to E:\IOT\Flextronics\Thangavel   at 20150911164728218Tz-7
+
+Images will be stored to E:\   at 20150911164737070Tz-7
+
+Date Time Monitor Started...   at 20150911164738517Tz-7
+
+
+
+--------------------------------------------------------------------------------------------
+
+
+IP Address is 192.168.1.1
+
+Command Port is 9003
+
+Data Port is 9004
+
+Interface is Ethernet
+
+Reader Type is SR_1000
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164728217Tz-7.csv   at 20150911164746106Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164728217Tz-7.csv   at 20150911164756205Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164728217Tz-7.csv   at 20150911164801417Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164728217Tz-7.csv   at 20150911164816628Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164728217Tz-7.csv   at 20150911164823350Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164728217Tz-7.csv   at 20150911164858230Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164900001Tz-7.csv   at 20150911164910707Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164900001Tz-7.csv   at 20150911164916327Tz-7
+
+Date will be written to E:\IOT\Flextronics\Thangavel\out_20150911164900001Tz-7.csv   at 20150911164921751Tz-7
+
